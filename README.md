@@ -1,4 +1,4 @@
-# Site Pessoal Completo – React + Node.js (MERN)
+# Site Pessoal Completo – React + Node.js (MERN) - Finalidade didática
 
 Site pessoal moderno com:
 - Página inicial
