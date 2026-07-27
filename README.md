@@ -25,7 +25,7 @@ meu-site/
 
 ```bash
 cd backend
-cp .env.example .env
+cp .env.example.txt .env
 # Edite o .env com suas credenciais
 npm install
 npm run dev
