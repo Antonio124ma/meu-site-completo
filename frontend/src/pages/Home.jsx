@@ -12,7 +12,7 @@ const Home = () => {
         className="text-center max-w-3xl"
       >
         <h1 className="text-5xl sm:text-6xl md:text-7xl font-bold text-gray-900 mb-4 tracking-tight">
-          João Silva
+          Antonio
         </h1>
         <p className="text-xl sm:text-2xl text-gray-600 mb-8">
           Desenvolvedor Full Stack · Apaixonado por tecnologia
